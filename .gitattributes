@@ -1,0 +1,2 @@
+Mars4_5.jar filter=lfs diff=lfs merge=lfs -text
+Labs/Lab1/answers.pdf filter=lfs diff=lfs merge=lfs -text
