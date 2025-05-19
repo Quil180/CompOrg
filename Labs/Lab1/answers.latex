@@ -54,9 +54,9 @@
 \newpage
 
 \section{Problem 1}
-Given that the first display has a resolution of 640x360, and that the frame buffer, or the total amount of bytes needed to store the image is 675KB, the minimum amount of bits nessecary is $675 KB * (8*1024) \frac{Bytes}{KB}$ or \textbf{5,529,600 Bits}.
+Given that the first display has a resolution of 640x360, and that the frame buffer, or the total amount of bytes needed to store the image is 675KB, the minimum amount of bits nessecary is $675 KB * (8*1024) \frac{Bytes}{KB}$ or 5,529,600 Bits of which, per color is going to be \textbf{1,843,200 Bits}.
 \newline\newline
-For the second display, given that the resolution is 512x1024, and that the fram buffer, or the total amount of bytes needed to store the image is 6MB, the minimum amount of bits nessecary to store it is $6MB * 1024 \frac{KiloBytes}{MegaByte} * 1024 \frac{Bytes}{KiloByte} * 8 \frac{Bit}{Byte}$ or \textbf{50,331,648 Bits}.
+For the second display, given that the resolution is 512x1024, and that the fram buffer, or the total amount of bytes needed to store the image is 6MB, the minimum amount of bits nessecary to store it is $6MB * 1024 \frac{KiloBytes}{MegaByte} * 1024 \frac{Bytes}{KiloByte} * 8 \frac{Bit}{Byte}$ or 50,331,648 Bits of which, per color, is going to be \textbf{16,777,216 Bits}.
 
 
 \section{Problem 2}
